@@ -1,4 +1,4 @@
-## Tetris
+## Tetris [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/0xlax/tetris/main/LICENSE.MIT)
 
 **Tetris** : a game of logic and algorithmic calculations.
 
