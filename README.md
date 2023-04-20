@@ -8,9 +8,9 @@
 
 ### Game Plan
 
-[] Build Layout
-[] Set Interface
-[] Add Tetromino
-[] Add Dynamics (Most fun part!)
-[] Touch up
+- [ ] Build Layout
+- [ ] Set Interface
+- [ ] Add Tetromino
+- [ ] Add Dynamics (Most fun part!)
+- [ ] Touch up
 
