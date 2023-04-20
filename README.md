@@ -12,6 +12,7 @@
 - [ ] Set Interface
 - [ ] Add Tetromino
 - [ ] Add Dynamics (Most fun part!)
+- [ ] Collision and Magic (line disappearing thing idk the name)
 - [ ] Touch up
 
 ### Deliverables
