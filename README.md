@@ -1,4 +1,4 @@
-## Tetris [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/0xlax/tetris/main/LICENSE.MIT)
+## Tetris [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/0xlax/tetris/blob/00671bd83454a1b187c8771930ccabfeb02c627c/src/main.rs#L1)
 
 **Tetris** : a game of logic and algorithmic calculations.
 
@@ -14,3 +14,11 @@
 - [ ] Add Dynamics (Most fun part!)
 - [ ] Touch up
 
+### Deliverables
+
+- Linux Release
+- Fun
+
+### Run
+
+```cargo build --release```
